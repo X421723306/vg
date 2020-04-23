@@ -1,2 +1,2 @@
-# vg
-none
+# project exercise(JAVA)
+
